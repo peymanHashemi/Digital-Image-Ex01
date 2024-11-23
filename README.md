@@ -61,7 +61,7 @@ Result :
 <img src="https://user-images.githubusercontent.com/62074677/214148368-eda6bb30-5b56-4d35-be76-4f21acd98f8c.gif">
 
 
-# Digital Image Processing - Exercise 2
+# Digital Image Processing Exercise 2
 Exercises for Digital Image Processing Course - Spring 2022
 
 By Peyman Hashemi
