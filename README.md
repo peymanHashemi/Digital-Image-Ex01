@@ -79,34 +79,34 @@ Results: The answer is provided in following PDF
 We slice grayscale images into bit-planes and compare consecutive frames using the XOR function to detect motion. The motion is highlighted by reconstructing the image from the significant bit-planes.
 Results:
 
-<img style="width:400px" src="https://github.com/user-attachments/assets/09c1409a-5777-40fd-b5cf-12b3779d5a8c" >
+<img style="width:600px" src="https://github.com/user-attachments/assets/09c1409a-5777-40fd-b5cf-12b3779d5a8c" >
 
 
-<img style="width:400px" src="https://github.com/user-attachments/assets/193f2b0e-f919-4d16-b46f-466f0c7eba34" >
+<img style="width:600px" src="https://github.com/user-attachments/assets/193f2b0e-f919-4d16-b46f-466f0c7eba34" >
 
 
-<img style="width:400px" src="https://github.com/user-attachments/assets/ab8a44e2-9883-4fce-8ee3-d7fe3fe6e04f" >
+<img style="width:600px" src="https://github.com/user-attachments/assets/ab8a44e2-9883-4fce-8ee3-d7fe3fe6e04f" >
 
 
 #MotionDetection #BitPlaneXOR #FootballPlayerTracking
+
 # Question 3: Pedestrian Detection
 We apply image averaging and thresholding to detect pedestrians in video frames. The background is estimated using multiple frames and subtracted from the foreground to count individuals in test frames.
 Results:
 
-<img style="width:400px" src="https://github.com/user-attachments/assets/808e47db-bf23-4592-a0c4-bde7ce675627">
+<img style="width:600px" src="https://github.com/user-attachments/assets/808e47db-bf23-4592-a0c4-bde7ce675627">
 
 
-<img style="width:400px" src="https://github.com/user-attachments/assets/961ea9de-d1f5-4daa-a20e-5a5e4ffe4715">
+<img style="width:600px" src="https://github.com/user-attachments/assets/961ea9de-d1f5-4daa-a20e-5a5e4ffe4715">
 
 
-<img style="width:400px" src="https://github.com/user-attachments/assets/d1e9987f-8868-4fd5-9411-1d830bb88af6">
+<img style="width:600px" src="https://github.com/user-attachments/assets/d1e9987f-8868-4fd5-9411-1d830bb88af6">
 
 
-<img style="width:400px" src="https://github.com/user-attachments/assets/8dfee085-d998-4626-9b5f-61b720933c91">
-
-
+<img style="width:600px" src="https://github.com/user-attachments/assets/8dfee085-d998-4626-9b5f-61b720933c91">
 
 #PedestrianDetection #ImageAveraging #ForegroundExtraction
+
 ## Question 4: Image Obamafication
 Inspired by the iconic "Hope" poster, this exercise applies bilateral filtering and color mapping based on intensity thresholds to create a stylized effect.
 Results: 
@@ -114,7 +114,7 @@ Results:
 
 
 <img src="https://github.com/user-attachments/assets/07f669fc-124c-4a0d-a303-9c2c7b1689ed" width=30% height=30%>
-\n
+<br>
 <img src="https://github.com/user-attachments/assets/0c700d18-e093-4ff5-94be-625e3fbf10fe" width=30% height=30%>
 
 #BilateralFiltering #ColorMapping #Posterization
@@ -125,6 +125,7 @@ Results:
 <img src="https://github.com/user-attachments/assets/54229444-2304-48cd-a7ef-ca8d45f2f9f0">
 
 #SeamCarving #ImageResizing #DynamicProgramming
+
 ## Question 6: Explanatory Questions
 A set of theoretical questions regarding spatial filters, noise reduction, and template matching were explored.
 Results: The answer is provided in following PDF
@@ -163,8 +164,9 @@ This question focuses on analyzing images using Fourier Transforms in both spati
 Results:
 
 <img src="https://github.com/user-attachments/assets/42464821-c9a8-4784-be67-a95e153764fa" width=30% height=30%>
-
+<br>
 <img src="https://github.com/user-attachments/assets/b22af1b7-8c9d-4282-8568-3f0e7dbbcdda" width=30% height=30%>
+
 #FourierAnalysis #SpatialVsFrequencyDomain #PatternRecognition
 
 ---
@@ -179,10 +181,12 @@ We analyze perceptual illusions using Fourier Transform and filtering techniques
 
 Results:
 
-<img src="https://github.com/user-attachments/assets/f33e756e-2ee3-4f6d-8563-23753d9c0873" width=30% height=30%>
-
-<img src="https://github.com/user-attachments/assets/f83a5fd0-3d5f-455b-abe6-8e3d9ba84a1c" width=30% height=30%>
+<img style="width:600px" src="https://github.com/user-attachments/assets/f33e756e-2ee3-4f6d-8563-23753d9c0873">
+<br>
+<img style="width:600px" src="https://github.com/user-attachments/assets/f83a5fd0-3d5f-455b-abe6-8e3d9ba84a1c">
+<br>
 #ColorIllusion #FourierFiltering #MunkersIllusion
+
 ---
 
 ## Question 5: Hybrid Images – Merging Frequency Components
@@ -195,10 +199,10 @@ This exercise demonstrates how to create hybrid images by combining high-frequen
 
 Results:
 
-<img style="width:400px" src="https://github.com/user-attachments/assets/1adb0ae7-5c0e-4193-be53-2ba97759ded0"> <br> <img style="width:400px" src="https://github.com/user-attachments/assets/77a60275-4faf-47b3-897f-4ed360e76233"> <br> <img style="width:400px" src="https://github.com/user-attachments/assets/f03f50d4-8be2-40c6-bfc3-0185316c0d46"> <br> <img style="width:400px" src="https://github.com/user-attachments/assets/9ffd6969-7302-419b-a8ee-4f2d6e3279a7">
-
+<img style="width:600px" src="https://github.com/user-attachments/assets/1adb0ae7-5c0e-4193-be53-2ba97759ded0"> <br> <img style="width:600px" src="https://github.com/user-attachments/assets/77a60275-4faf-47b3-897f-4ed360e76233"> <br> <img style="width:600px" src="https://github.com/user-attachments/assets/f03f50d4-8be2-40c6-bfc3-0185316c0d46"> <br> <img style="width:600px" src="https://github.com/user-attachments/assets/9ffd6969-7302-419b-a8ee-4f2d6e3279a7">
 
 #HybridImages #HighLowFrequency #VisualPerception
+
 ---
 
 
