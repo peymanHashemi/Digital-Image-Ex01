@@ -112,8 +112,10 @@ Inspired by the iconic "Hope" poster, this exercise applies bilateral filtering 
 Results: 
 
 
+
 <img src="https://github.com/user-attachments/assets/07f669fc-124c-4a0d-a303-9c2c7b1689ed" width=30% height=30%>
-<img src="https://github.com/user-attachments/assets/2f4f4795-83be-4f7f-b819-70977ad11a61" width=30% height=30%>
+\n
+<img src="https://github.com/user-attachments/assets/0c700d18-e093-4ff5-94be-625e3fbf10fe" width=30% height=30%>
 
 #BilateralFiltering #ColorMapping #Posterization
 ## Question 5: Seam Carving for Image Resizing
@@ -195,10 +197,10 @@ Results:
 
 <img style="width:400px" src="https://github.com/user-attachments/assets/1adb0ae7-5c0e-4193-be53-2ba97759ded0" >
 
-
+\n
 <img style="width:400px" src="https://github.com/user-attachments/assets/77a60275-4faf-47b3-897f-4ed360e76233" >
 
-
+\n
 <img style="width:400px" src="https://github.com/user-attachments/assets/f03f50d4-8be2-40c6-bfc3-0185316c0d46" >
 
 
