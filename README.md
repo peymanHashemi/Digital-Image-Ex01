@@ -118,33 +118,6 @@ Results: The answer is provided in following PDF
 
 #ImageFiltering #NoiseReduction #TemplateMatching
 
-# Exercise 3
-## Question 1: Fundamentals of Fourier Transform (I): DCT, DFT, and Sampling Theorem
-## Question 1: Fundamentals of Fourier Transform (II): 2D Convolution
-
-- Fourier Analysis
-
-  * Match the shapes present in the images and patterns in their Fourier magnitude image
-
-
-
-
-- Fourier Analysis continued
-
-  * Don't remember but pretty
-
-
-
-
-- Hybrid Image
-
-  * Details of one image on top of coarse information of another
-
-
-
-
-
-
 ## Question 1: Fundamentals of Fourier Transform (I)
 
 This section explores the foundational concepts of Fourier Transform, including Discrete Cosine Transform (DCT), Discrete Fourier Transform (DFT), and Sampling Theorem. The tasks include:
@@ -152,6 +125,7 @@ This section explores the foundational concepts of Fourier Transform, including 
 - Calculating the DC coefficient and understanding its significance.
 - Proving relationships between Fourier basis functions and image patterns.
 - Understanding the impact of sampling distance and aliasing.
+#FourierTransform #SamplingTheorem #ImageFrequencyAnalysis
 
 ---
 
@@ -162,6 +136,7 @@ The second section applies Fourier analysis to 2D Convolution. Key tasks include
 - Deriving equivalent filters in the frequency domain.
 - Identifying low-pass and high-pass filters through mathematical proofs.
 - Understanding the effects of filter transformations, such as band-pass and notch filters, on images.
+#2DConvolution #FrequencyDomainFilters #ImageFiltering
 
 ---
 
@@ -173,9 +148,11 @@ This question focuses on analyzing images using Fourier Transforms in both spati
 - Exploring how structures in the spatial domain correspond to frequency domain features.
 
 Results:
-<img style="width:500px" src="https://github.com/user-attachments/assets/42464821-c9a8-4784-be67-a95e153764fa"/>
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/b22af1b7-8c9d-4282-8568-3f0e7dbbcdda"/>
+<img style="width:500px" src="https://github.com/user-attachments/assets/42464821-c9a8-4784-be67-a95e153764fa">
+
+<img style="width:500px" src="https://github.com/user-attachments/assets/b22af1b7-8c9d-4282-8568-3f0e7dbbcdda">
+#FourierAnalysis #SpatialVsFrequencyDomain #PatternRecognition
 
 ---
 
@@ -188,9 +165,11 @@ We analyze perceptual illusions using Fourier Transform and filtering techniques
 - Verifying the uniformity of shapes in Munker’s Illusion despite apparent color differences.
 
 Results:
-<img style="width:500px" src="https://github.com/user-attachments/assets/f33e756e-2ee3-4f6d-8563-23753d9c0873"/>
-<img style="width:500px" src="https://github.com/user-attachments/assets/f83a5fd0-3d5f-455b-abe6-8e3d9ba84a1c"/>
 
+<img style="width:500px" src="https://github.com/user-attachments/assets/f33e756e-2ee3-4f6d-8563-23753d9c0873">
+
+<img style="width:500px" src="https://github.com/user-attachments/assets/f83a5fd0-3d5f-455b-abe6-8e3d9ba84a1c">
+#ColorIllusion #FourierFiltering #MunkersIllusion
 ---
 
 ## Question 5: Hybrid Images – Merging Frequency Components
@@ -202,14 +181,15 @@ This exercise demonstrates how to create hybrid images by combining high-frequen
 - Visualizing the hybridization process with progressively filtered outputs.
 
 Results:
-<img style="width:500px" src="https://github.com/user-attachments/assets/1adb0ae7-5c0e-4193-be53-2ba97759ded0"/>
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/77a60275-4faf-47b3-897f-4ed360e76233"/>
+<img style="width:500px" src="https://github.com/user-attachments/assets/1adb0ae7-5c0e-4193-be53-2ba97759ded0">
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/f03f50d4-8be2-40c6-bfc3-0185316c0d46"/>
+<img style="width:500px" src="https://github.com/user-attachments/assets/77a60275-4faf-47b3-897f-4ed360e76233">
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/9ffd6969-7302-419b-a8ee-4f2d6e3279a7"/>
+<img style="width:500px" src="https://github.com/user-attachments/assets/f03f50d4-8be2-40c6-bfc3-0185316c0d46">
 
+<img style="width:500px" src="https://github.com/user-attachments/assets/9ffd6969-7302-419b-a8ee-4f2d6e3279a7">
+#HybridImages #HighLowFrequency #VisualPerception
 ---
 
 
