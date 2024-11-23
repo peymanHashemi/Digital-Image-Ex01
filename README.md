@@ -210,28 +210,6 @@ Results:
 
 # Exercise 4
 
-- Image Restoration
-
-  * Restore old images using a variety of image processing techniques
-
-
-
-
-- Image Restoration and Warping
-
-  * Restore old images using a variety of image processing techniques
-
-<img style="width:500px" src="https://github.com/user-attachments/assets/54b3f27e-3420-48a7-af83-398f4b4316cc"/>
-<img style="width:500px" src="https://github.com/user-attachments/assets/e82b9078-56a8-49fc-8808-5953e6a93a3b"/>
-
-- Image Morphing
-  * Morph an image into another using delaunay triangulation and linear interpolation
-
-
-
-
-
-
 ## Question 1: The Magnificent Eleven - Restoring Historical Photos
 
 This question involves restoring degraded historical photographs from the D-Day landings, known as "The Magnificent Eleven." The tasks include:
@@ -309,3 +287,60 @@ This question demonstrates morphing techniques to visualize changes in the appea
 
 
 # Exercise 5
+
+### Question 1: Image Compression Using Run-Length and Huffman Coding
+We explore fundamental image compression techniques, starting with run-length encoding and zig-zag ordering for binary images. Huffman coding is then applied to generate efficient codebooks based on symbol probabilities. The tasks also include entropy comparison, bit-rate calculation, and compression ratio analysis.
+
+### Steps:
+1. Convert the image to binary and calculate run-length encoding.
+2. Apply zig-zag ordering to arrange the pixel sequence.
+3. Generate Huffman codes for each symbol and calculate entropy and compression metrics.
+
+#ImageCompression #RunLengthCoding #HuffmanEncoding
+
+---
+
+### Question 2: JPEG Compression and Quantization
+This task focuses on lossy compression with JPEG-like quantization. Starting with 4×4 DCT coefficients, quantization is applied, followed by vectorization and run-length encoding. Spatially neighboring blocks are analyzed for further compression.
+
+1. Quantize 4×4 DCT coefficients using a given quantization matrix.
+2. Order coefficients with zig-zag traversal and encode using run-length encoding.
+3. Propose additional compression techniques for neighboring blocks.
+
+### Results:
+
+<img style="width:700px" src="https://github.com/user-attachments/assets/012ade74-027a-4647-bbf7-dbb9c5207403"> <br>
+<img style="width:400px" src="https://github.com/user-attachments/assets/bcdd23e3-f020-4d04-b8a6-afcec04b7101">
+<img style="width:400px" src="https://github.com/user-attachments/assets/8442c040-37c4-4b9a-ae0c-fb65b8c6266d">
+<img style="width:400px" src="https://github.com/user-attachments/assets/caebdf92-115f-4daf-8557-2f20364ff3ea">
+
+#JPEGCompression #Quantization #RunLengthEncoding
+
+---
+
+### Question 3: Morphological Edge Detection
+Morphological operations such as dilation, erosion, opening, and closing are applied to detect edges in grayscale images. Each approach is compared for accuracy in edge preservation and noise reduction.
+
+### Steps:
+1. Apply second-order derivatives with dilation and erosion.
+2. Perform edge detection using combinations of opening and closing.
+3. Compare outputs for clarity and noise resilience.
+
+### Results:
+<img style="width:600px" src="https://github.com/user-attachments/assets/2b1bf62f-141b-48e0-bc87-7b62a76baa1a">
+<img style="width:600px" src="https://github.com/user-attachments/assets/4d73b1e2-21fa-4e3f-ad9e-fd42df4d34ba">
+<img style="width:600px" src="https://github.com/user-attachments/assets/24eaf03c-d877-479d-93e5-b36d26ceeed9">
+
+
+### Final result of Object Detection and Counting:
+### Steps:
+1. Remove the background using morphological operators like opening and closing.
+2. Count and categorize items using boundary detection and connected component analysis.
+3. Calculate the total cost based on item categories.
+<img style="width:600px" src="https://github.com/user-attachments/assets/c1a0e514-1132-4aa4-8164-d9bea95a6335">
+
+#Morphology #EdgeDetection #ImageFiltering
+
+---
+
+
