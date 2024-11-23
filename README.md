@@ -132,6 +132,8 @@ Results: The answer is provided in following PDF
 
 #ImageFiltering #NoiseReduction #TemplateMatching
 
+# Exercise 3
+
 ## Question 1: Fundamentals of Fourier Transform (I)
 
 This section explores the foundational concepts of Fourier Transform, including Discrete Cosine Transform (DCT), Discrete Fourier Transform (DFT), and Sampling Theorem. The tasks include:
@@ -163,9 +165,9 @@ This question focuses on analyzing images using Fourier Transforms in both spati
 
 Results:
 
-<img src="https://github.com/user-attachments/assets/42464821-c9a8-4784-be67-a95e153764fa" width=30% height=30%>
+<img style="width:600px" src="https://github.com/user-attachments/assets/42464821-c9a8-4784-be67-a95e153764fa">
 <br>
-<img src="https://github.com/user-attachments/assets/b22af1b7-8c9d-4282-8568-3f0e7dbbcdda" width=30% height=30%>
+<img style="width:600px" src="https://github.com/user-attachments/assets/b22af1b7-8c9d-4282-8568-3f0e7dbbcdda">
 
 #FourierAnalysis #SpatialVsFrequencyDomain #PatternRecognition
 
@@ -213,8 +215,7 @@ Results:
   * Restore old images using a variety of image processing techniques
 
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/df451ba6-4082-4ffb-8731-8305bb462a13"/>
-<img style="width:500px" src="https://github.com/user-attachments/assets/9a3c100d-2a8f-4217-a93b-d923ebc87ba0"/>
+
 
 - Image Restoration and Warping
 
@@ -225,6 +226,86 @@ Results:
 
 - Image Morphing
   * Morph an image into another using delaunay triangulation and linear interpolation
+
+
+
+
+
+
+## Question 1: The Magnificent Eleven - Restoring Historical Photos
+
+This question involves restoring degraded historical photographs from the D-Day landings, known as "The Magnificent Eleven." The tasks include:
+
+- **Step 1**: Computing the Fourier Transform to identify vertical and horizontal noise patterns.
+- **Step 2**: Removing these patterns using filters and sharpening techniques (e.g., applying specific kernels).
+- **Step 3**: Applying normalization and advanced denoising methods like bilateral filtering and `fastNlMeansDenoising`.
+- **Step 4**: Sharpening the image post-denoising for improved visual clarity.
+
+### Results:
+
+<img style="width:500px" src="https://github.com/user-attachments/assets/df451ba6-4082-4ffb-8731-8305bb462a13">
+<br>
+<img style="width:500px" src="https://github.com/user-attachments/assets/9a3c100d-2a8f-4217-a93b-d923ebc87ba0">
+
+#ImageRestoration #Denoising #WWIIHistory
+
+---
+
+## Question 2: Wait for Me, Daddy - Resolution Enhancement
+
+This question focuses on enhancing the resolution of the iconic Canadian photograph *"Wait for Me, Daddy"* through interpolation methods. The steps include:
+
+- **a. Nearest-Neighbor Interpolation**: Resizing the image using the nearest-pixel value.
+- **b. Bilinear Interpolation**: Smoothing transitions using weighted averages of neighboring pixels.
+- **c. Nearest Neighbor Value Interpolation**: Estimating missing pixel values based on nearest neighbors.
+- **d. Non-Uniform Interpolation**: Resampling multiple low-resolution images with subpixel shifts to create a higher-resolution image.
+- **e. PSNR Calculation**: Evaluating and comparing results of all methods using the PSNR metric.
+
+### Results:
+
+<img style="width:500px" src="https://github.com/user-attachments/assets/ebfa00b2-1618-49b5-9006-1dd25f6c67b7">
+<br>
+#ResolutionEnhancement #ImageInterpolation #PSNREvaluation
+
+---
+
+## Question 3: Sonderkommando Photographs - Recovering Evidence
+
+This question involves restoring rare and historically significant photographs from Auschwitz, taken secretly by prisoners. The tasks include:
+
+- **a. Geometric Transformation**: Aligning the images into a proper frame for further processing.
+- **b. Image Restoration**: Applying filters and enhancement techniques to improve the visual quality.
+- **c. Final Denoising and Sharpening**: Using advanced methods to remove artifacts and improve clarity.
+
+### Results:
+<img style="width:500px" src="https://github.com/user-attachments/assets/54b3f27e-3420-48a7-af83-398f4b4316cc">
+<br>
+<img style="width:500px" src="https://github.com/user-attachments/assets/e82b9078-56a8-49fc-8808-5953e6a93a3b">
+
+
+#ImageRestoration #AuschwitzPhotos #GeometricTransformation
+
+---
+
+## Question 4: Morphing a Soldier’s Face - Before and After WWII
+
+This question demonstrates morphing techniques to visualize changes in the appearance of a WWII soldier before and after the war. The tasks include:
+
+- **a. Naïve Method**: Interpolating between the images pixel-by-pixel, producing 10 intermediate images.
+- **b. Keypoint Detection**: Manually identifying facial features and prominent points for accurate alignment.
+- **c. Delaunay Triangulation**: Dividing the face into triangles for localized transformations.
+- **d. Affine Transformation**: Morphing corresponding triangles between images and generating intermediate frames.
+- **e. Animation**: Creating a two-second video with 61 frames to visualize the transition.
+
+### Results:
+
+<img style="width:500px" src="https://github.com/user-attachments/assets/14d2c6c8-ee06-42a4-8dc6-07e5a4252b4d">
+<br>
+<img style="width:700px" src="https://github.com/user-attachments/assets/77f6b434-3744-491c-b972-201a3db72a23">
+
+#ImageMorphing #FacialTransformation #WWIIImpacts
+
+---
 
 
 # Exercise 5
