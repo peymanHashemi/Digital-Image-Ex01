@@ -92,7 +92,7 @@ Results:
 <img src="https://github.com/user-attachments/assets/961ea9de-d1f5-4daa-a20e-5a5e4ffe4715" width=20% height=20%>
 <img src="https://github.com/user-attachments/assets/d1e9987f-8868-4fd5-9411-1d830bb88af6" width=20% height=20%>
 
-<img style="width:400px" src="https://github.com/user-attachments/assets/8dfee085-d998-4626-9b5f-61b720933c91"/>
+<img src="https://github.com/user-attachments/assets/8dfee085-d998-4626-9b5f-61b720933c91" width=30% height=30%>
 
 
 #PedestrianDetection #ImageAveraging #ForegroundExtraction
@@ -101,8 +101,8 @@ Inspired by the iconic "Hope" poster, this exercise applies bilateral filtering 
 Results: 
 
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/07f669fc-124c-4a0d-a303-9c2c7b1689ed" >
-<img style="width:500px" src="https://github.com/user-attachments/assets/2f4f4795-83be-4f7f-b819-70977ad11a61" >
+<img src="https://github.com/user-attachments/assets/07f669fc-124c-4a0d-a303-9c2c7b1689ed" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/2f4f4795-83be-4f7f-b819-70977ad11a61" width=30% height=30%>
 
 #BilateralFiltering #ColorMapping #Posterization
 ## Question 5: Seam Carving for Image Resizing
@@ -149,9 +149,9 @@ This question focuses on analyzing images using Fourier Transforms in both spati
 
 Results:
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/42464821-c9a8-4784-be67-a95e153764fa">
+<img src="https://github.com/user-attachments/assets/42464821-c9a8-4784-be67-a95e153764fa" width=30% height=30%>
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/b22af1b7-8c9d-4282-8568-3f0e7dbbcdda">
+<img src="https://github.com/user-attachments/assets/b22af1b7-8c9d-4282-8568-3f0e7dbbcdda" width=30% height=30%>
 #FourierAnalysis #SpatialVsFrequencyDomain #PatternRecognition
 
 ---
@@ -166,9 +166,9 @@ We analyze perceptual illusions using Fourier Transform and filtering techniques
 
 Results:
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/f33e756e-2ee3-4f6d-8563-23753d9c0873">
+<img src="https://github.com/user-attachments/assets/f33e756e-2ee3-4f6d-8563-23753d9c0873" width=30% height=30%>
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/f83a5fd0-3d5f-455b-abe6-8e3d9ba84a1c">
+<img src="https://github.com/user-attachments/assets/f83a5fd0-3d5f-455b-abe6-8e3d9ba84a1c" width=30% height=30%>
 #ColorIllusion #FourierFiltering #MunkersIllusion
 ---
 
@@ -182,13 +182,13 @@ This exercise demonstrates how to create hybrid images by combining high-frequen
 
 Results:
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/1adb0ae7-5c0e-4193-be53-2ba97759ded0">
+<img src="https://github.com/user-attachments/assets/1adb0ae7-5c0e-4193-be53-2ba97759ded0" width=30% height=30%>
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/77a60275-4faf-47b3-897f-4ed360e76233">
+<img src="https://github.com/user-attachments/assets/77a60275-4faf-47b3-897f-4ed360e76233" width=30% height=30%>
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/f03f50d4-8be2-40c6-bfc3-0185316c0d46">
+<img src="https://github.com/user-attachments/assets/f03f50d4-8be2-40c6-bfc3-0185316c0d46" width=30% height=30%>
 
-<img style="width:500px" src="https://github.com/user-attachments/assets/9ffd6969-7302-419b-a8ee-4f2d6e3279a7">
+<img src="https://github.com/user-attachments/assets/9ffd6969-7302-419b-a8ee-4f2d6e3279a7" width=30% height=30%>
 #HybridImages #HighLowFrequency #VisualPerception
 ---
 
