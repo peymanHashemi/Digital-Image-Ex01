@@ -1,10 +1,10 @@
 # Content
 - Table of Contents
-  * [EX1](#Digital-Image-Processing-Exercise-1) [Face Symmetry, Climate Change, Steganography, Pacman with OpenCV]
+  * [EX1](#Digital-Image-Processing---Exercise-1) [Face Symmetry, Climate Change, Steganography, Pacman with OpenCV]
   * [EX2](#Digital-Image-Processing---Exercise-2) [Pedestrian/Motion Detection, Bilateral Filtering Poster, Seam Carving]
-  * [EX3](#EX3) [Fourier Analysis, Hybrid Image Generation with frequency separation]
-  * [EX4](#EX4) [Image Restoration, Perspective Transform, Face Morphing with Delaunay Triangulation]
-  * [EX5](#EX5) [Image Compression, Image Filtering, Obejct Detection with Morphological techniques]
+  * [EX3](#Digital-Image-Processing---Exercise-3) [Fourier Analysis, Hybrid Image Generation with frequency separation]
+  * [EX4](#Digital-Image-Processing---Exercise-4) [Image Restoration, Perspective Transform, Face Morphing with Delaunay Triangulation]
+  * [EX5](#Digital-Image-Processing---Exercise-5) [Image Compression, Image Filtering, Obejct Detection with Morphological techniques]
 
 # Digital Image Processing - Exercise 1
 Exercises for Digital Image Processing Course - Amirkabir University of Technology Spring 2022
