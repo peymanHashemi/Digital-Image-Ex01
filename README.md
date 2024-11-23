@@ -79,20 +79,31 @@ Results: The answer is provided in following PDF
 We slice grayscale images into bit-planes and compare consecutive frames using the XOR function to detect motion. The motion is highlighted by reconstructing the image from the significant bit-planes.
 Results:
 
-<img src="https://github.com/user-attachments/assets/09c1409a-5777-40fd-b5cf-12b3779d5a8c" width=20% height=20%>
-<img src="https://github.com/user-attachments/assets/193f2b0e-f919-4d16-b46f-466f0c7eba34" width=20% height=20%>
-<img src="https://github.com/user-attachments/assets/ab8a44e2-9883-4fce-8ee3-d7fe3fe6e04f" width=20% height=20%>
+<img style="width:400px" src="https://github.com/user-attachments/assets/09c1409a-5777-40fd-b5cf-12b3779d5a8c" >
+
+
+<img style="width:400px" src="https://github.com/user-attachments/assets/193f2b0e-f919-4d16-b46f-466f0c7eba34" >
+
+
+<img style="width:400px" src="https://github.com/user-attachments/assets/ab8a44e2-9883-4fce-8ee3-d7fe3fe6e04f" >
+
 
 #MotionDetection #BitPlaneXOR #FootballPlayerTracking
 # Question 3: Pedestrian Detection
 We apply image averaging and thresholding to detect pedestrians in video frames. The background is estimated using multiple frames and subtracted from the foreground to count individuals in test frames.
 Results:
 
-<img src="https://github.com/user-attachments/assets/808e47db-bf23-4592-a0c4-bde7ce675627" width=20% height=20%>
-<img src="https://github.com/user-attachments/assets/961ea9de-d1f5-4daa-a20e-5a5e4ffe4715" width=20% height=20%>
-<img src="https://github.com/user-attachments/assets/d1e9987f-8868-4fd5-9411-1d830bb88af6" width=20% height=20%>
+<img style="width:400px" src="https://github.com/user-attachments/assets/808e47db-bf23-4592-a0c4-bde7ce675627">
 
-<img src="https://github.com/user-attachments/assets/8dfee085-d998-4626-9b5f-61b720933c91" width=30% height=30%>
+
+<img style="width:400px" src="https://github.com/user-attachments/assets/961ea9de-d1f5-4daa-a20e-5a5e4ffe4715">
+
+
+<img style="width:400px" src="https://github.com/user-attachments/assets/d1e9987f-8868-4fd5-9411-1d830bb88af6">
+
+
+<img style="width:400px" src="https://github.com/user-attachments/assets/8dfee085-d998-4626-9b5f-61b720933c91">
+
 
 
 #PedestrianDetection #ImageAveraging #ForegroundExtraction
@@ -182,13 +193,18 @@ This exercise demonstrates how to create hybrid images by combining high-frequen
 
 Results:
 
-<img src="https://github.com/user-attachments/assets/1adb0ae7-5c0e-4193-be53-2ba97759ded0" width=30% height=30%>
+<img style="width:400px" src="https://github.com/user-attachments/assets/1adb0ae7-5c0e-4193-be53-2ba97759ded0" >
 
-<img src="https://github.com/user-attachments/assets/77a60275-4faf-47b3-897f-4ed360e76233" width=30% height=30%>
 
-<img src="https://github.com/user-attachments/assets/f03f50d4-8be2-40c6-bfc3-0185316c0d46" width=30% height=30%>
+<img style="width:400px" src="https://github.com/user-attachments/assets/77a60275-4faf-47b3-897f-4ed360e76233" >
 
-<img src="https://github.com/user-attachments/assets/9ffd6969-7302-419b-a8ee-4f2d6e3279a7" width=30% height=30%>
+
+<img style="width:400px" src="https://github.com/user-attachments/assets/f03f50d4-8be2-40c6-bfc3-0185316c0d46" >
+
+
+<img style="width:400px" src="https://github.com/user-attachments/assets/9ffd6969-7302-419b-a8ee-4f2d6e3279a7" >
+
+
 #HybridImages #HighLowFrequency #VisualPerception
 ---
 
