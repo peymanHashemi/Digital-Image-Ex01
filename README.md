@@ -1,15 +1,18 @@
-# Content
-- Table of Contents
-  * [EX1](#Digital-Image-Processing---Exercise-1) [Face Symmetry, Climate Change, Steganography, Pacman with OpenCV]
-  * [EX2](#Digital-Image-Processing---Exercise-2) [Pedestrian/Motion Detection, Bilateral Filtering Poster, Seam Carving]
-  * [EX3](#Digital-Image-Processing---Exercise-3) [Fourier Analysis, Hybrid Image Generation with frequency separation]
-  * [EX4](#Digital-Image-Processing---Exercise-4) [Image Restoration, Perspective Transform, Face Morphing with Delaunay Triangulation]
-  * [EX5](#Digital-Image-Processing---Exercise-5) [Image Compression, Image Filtering, Obejct Detection with Morphological techniques]
-
-# Digital Image Processing - Exercise 1
+# Digital Image Processing (DIP) Exercises
 Exercises for Digital Image Processing Course - Amirkabir University of Technology Spring 2022
 
 By Peyman Hashemi Spring/Summer 2022
+
+# Content
+- Table of Contents
+  * [EX1](#Exercise-1) [Face Symmetry, Climate Change, Steganography, Pacman with OpenCV]
+  * [EX2](#Exercise-2) [Pedestrian/Motion Detection, Bilateral Filtering Poster, Seam Carving]
+  * [EX3](#Exercise-3) [Fourier Analysis, Hybrid Image Generation with frequency separation]
+  * [EX4](#Exercise-4) [Image Restoration, Perspective Transform, Face Morphing with Delaunay Triangulation]
+  * [EX5](#Exercise-5) [Image Compression, Image Filtering, Obejct Detection with Morphological techniques]
+
+# Exercise 1
+
 
 # Question 1
 Is beauty measurable?
@@ -61,7 +64,7 @@ Result :
 <img src="https://user-images.githubusercontent.com/62074677/214148368-eda6bb30-5b56-4d35-be76-4f21acd98f8c.gif">
 
 
-# Digital Image Processing - Exercise 2
+# Exercise 2
 Exercises for Digital Image Processing Course - Spring 2022
 
 By Peyman Hashemi
@@ -89,13 +92,17 @@ Results:
 <img src="https://github.com/user-attachments/assets/961ea9de-d1f5-4daa-a20e-5a5e4ffe4715" width=20% height=20%>
 <img src="https://github.com/user-attachments/assets/d1e9987f-8868-4fd5-9411-1d830bb88af6" width=20% height=20%>
 
+<img style="width:400px" src="https://github.com/user-attachments/assets/8dfee085-d998-4626-9b5f-61b720933c91"/>
+
+
 #PedestrianDetection #ImageAveraging #ForegroundExtraction
 ## Question 4: Image Obamafication
 Inspired by the iconic "Hope" poster, this exercise applies bilateral filtering and color mapping based on intensity thresholds to create a stylized effect.
 Results: 
 
-<img src="https://github.com/user-attachments/assets/bde9695f-63ed-48ee-a760-66e7d8ebd2dd" width=20% height=20%>
-<img src="https://github.com/user-attachments/assets/2f4f4795-83be-4f7f-b819-70977ad11a61" width=20% height=20%>
+
+<img style="width:500px" src="https://github.com/user-attachments/assets/07f669fc-124c-4a0d-a303-9c2c7b1689ed" >
+<img style="width:500px" src="https://github.com/user-attachments/assets/2f4f4795-83be-4f7f-b819-70977ad11a61" >
 
 #BilateralFiltering #ColorMapping #Posterization
 ## Question 5: Seam Carving for Image Resizing
@@ -110,3 +117,53 @@ A set of theoretical questions regarding spatial filters, noise reduction, and t
 Results: The answer is provided in following PDF
 
 #ImageFiltering #NoiseReduction #TemplateMatching
+
+# Exercise 3
+
+- Fourier Analysis
+
+  * Match the shapes present in the images and patterns in their Fourier magnitude image
+
+
+<img style="width:500px" src="https://github.com/user-attachments/assets/42464821-c9a8-4784-be67-a95e153764fa"/>
+
+<img style="width:500px" src="https://github.com/user-attachments/assets/b22af1b7-8c9d-4282-8568-3f0e7dbbcdda"/>
+
+- Fourier Analysis continued
+
+  * Don't remember but pretty
+
+
+<img style="width:500px" src="https://github.com/user-attachments/assets/f33e756e-2ee3-4f6d-8563-23753d9c0873"/>
+<img style="width:500px" src="https://github.com/user-attachments/assets/f83a5fd0-3d5f-455b-abe6-8e3d9ba84a1c"/>
+
+- Hybrid Image
+
+  * Details of one image on top of coarse information of another
+
+<img style="width:500px" src="https://github.com/user-attachments/assets/1adb0ae7-5c0e-4193-be53-2ba97759ded0"/>
+<img style="width:500px" src="https://github.com/user-attachments/assets/77a60275-4faf-47b3-897f-4ed360e76233"/>
+<img style="width:500px" src="https://github.com/user-attachments/assets/f03f50d4-8be2-40c6-bfc3-0185316c0d46"/>
+
+# Exercise 4
+
+- Image Restoration
+
+  * Restore old images using a variety of image processing techniques
+
+
+<img style="width:500px" src="https://github.com/user-attachments/assets/df451ba6-4082-4ffb-8731-8305bb462a13"/>
+<img style="width:500px" src="https://github.com/user-attachments/assets/9a3c100d-2a8f-4217-a93b-d923ebc87ba0"/>
+
+- Image Restoration and Warping
+
+  * Restore old images using a variety of image processing techniques
+
+<img style="width:500px" src="https://github.com/user-attachments/assets/54b3f27e-3420-48a7-af83-398f4b4316cc"/>
+<img style="width:500px" src="https://github.com/user-attachments/assets/e82b9078-56a8-49fc-8808-5953e6a93a3b"/>
+
+- Image Morphing
+  * Morph an image into another using delaunay triangulation and linear interpolation
+
+
+# Exercise 5
