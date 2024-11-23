@@ -195,7 +195,7 @@ This exercise demonstrates how to create hybrid images by combining high-frequen
 
 Results:
 
-<img style="width:400px" src="https://github.com/user-attachments/assets/1adb0ae7-5c0e-4193-be53-2ba97759ded0"> <img style="width:400px" src="https://github.com/user-attachments/assets/77a60275-4faf-47b3-897f-4ed360e76233"> <img style="width:400px" src="https://github.com/user-attachments/assets/f03f50d4-8be2-40c6-bfc3-0185316c0d46"> <img style="width:400px" src="https://github.com/user-attachments/assets/9ffd6969-7302-419b-a8ee-4f2d6e3279a7">
+<img style="width:400px" src="https://github.com/user-attachments/assets/1adb0ae7-5c0e-4193-be53-2ba97759ded0"> <br> <img style="width:400px" src="https://github.com/user-attachments/assets/77a60275-4faf-47b3-897f-4ed360e76233"> <br> <img style="width:400px" src="https://github.com/user-attachments/assets/f03f50d4-8be2-40c6-bfc3-0185316c0d46"> <br> <img style="width:400px" src="https://github.com/user-attachments/assets/9ffd6969-7302-419b-a8ee-4f2d6e3279a7">
 
 
 #HybridImages #HighLowFrequency #VisualPerception
